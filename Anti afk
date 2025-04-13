@@ -10,8 +10,8 @@ end)
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "AntiAFK loaded!",
-    Text = "made by gia-bao hub",
-    Button1 = "cảm ơn em đi",
+    Text = "cảm ơn em đi ",
+    Button1 = "Cặc",
     Duration = 5
 })
 
