@@ -9,7 +9,7 @@ game:GetService('Players').LocalPlayer.Idled:Connect(function()
 end)
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "AntiAFK loaded!",
+    Title = "chào",
     Text = "cảm ơn em đi ",
     Button1 = "Cặc",
     Duration = 5
