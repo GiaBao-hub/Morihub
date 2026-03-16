@@ -10,8 +10,8 @@ end)
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "chào",
-    Text = "cảm ơn em đi ",
-    Button1 = "Cặc",
+    Text = "có con chó đang đọc ",
+    Button1 = "cc",
     Duration = 5
 })
 
